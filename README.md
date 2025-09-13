@@ -6,12 +6,12 @@
 
 ---
  
-## 🖼️ Project Overview
+# 🖼️ Project Overview
 ![GUI Screenshot](reports/Product_Image_Classifier.png)
 
 ---
 
-## Features⭐
+# Features⭐
 
 • Model: MobileNetV2 fine-tuned on custom image classes
 • GUI: Gradio interface for image upload and classification; Tkinter used for comparison
@@ -27,7 +27,7 @@
 
 ---
 
-## Project Structure📁
+# Project Structure📁
 
 ```
 Product_Image_Classifier/
@@ -62,20 +62,20 @@ Product_Image_Classifier/
 ---
 
 
-## Quick Start🏁
+# Quick Start🏁
 
-# Install requirements📦
+## Install requirements📦
 ```
 pip install -r requirements.txt
 ```
 
-# Run Gradio interface🌐
+## Run Gradio interface🌐
 ```
 python src/infer.py
 ```
 ---
 
-## Fine-tuning Explanation📝
+# Fine-tuning Explanation📝
 
 We used a pretrained MobileNetV2 and only trained the classifier head on our small dataset.
 This approach:
@@ -87,7 +87,7 @@ This approach:
 ---
 
 
-## Technology Stack🛠️
+# Technology Stack🛠️
 
 • Python 3.9+ 🐍 
 
@@ -102,7 +102,7 @@ This approach:
 ---
 
 
-## 🇹🇷 Türkçe Özet
+# 🇹🇷 Türkçe Özet
 
 • Bu proje, MobileNetV2 ile ürün görsellerini sınıflandıran bir uygulamadır.
 
