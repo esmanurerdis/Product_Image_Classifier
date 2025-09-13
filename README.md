@@ -65,11 +65,13 @@ Product_Image_Classifier/
 # Quick Start🏁
 
 ## Install requirements📦
+
 ```python
 pip install -r requirements.txt
 ```
 
 ## Run Gradio interface🌐
+
 ```python
 python src/infer.py
 ```
