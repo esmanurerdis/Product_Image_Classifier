@@ -1,7 +1,7 @@
 # Product Image Classifier
 A computer vision project that classifies product images using MobileNetV2. The project includes model fine-tuning, evaluation, and a GUI for easy user interaction. The GUI is implemented with both Tkinter and Gradio, and the final choice is based on usability comparison.
 
-![GUI Screenshot](reports/Product Image Classifier.png)
+![GUI Screenshot](reports/Product_Image_Classifier.png)
 
 ## Features
 
